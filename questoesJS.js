@@ -8,6 +8,8 @@ function cadastrarTarefa() {
     
 }
 
+
+
 cadastrarTarefa();
 
 // QUESTÃO 01 - B
